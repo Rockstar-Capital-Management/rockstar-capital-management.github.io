@@ -9,5 +9,8 @@ Once the links.rockstar-capital.com subdomain is set up, GitHub forwards these t
 | Lakeview at Westpark | `/lakeview-links/` (its own repo: lakeview-links) |
 | Deerbrook Forest | `/deerbrook-forest-links/` |
 | Parkside | `/parkside-links/` |
+| Deerbrook Gardens | `/deerbrook-garden-links/` |
+| Meadowbrook | `/meadowbrook-links/` |
+| Waterchase | `/waterchase-links/` |
 
 Scan and button-tap counts: GoatCounter (rockstarcapital.goatcounter.com). Button tags are prefixed with the property name (for example `deerbrook-apply-now`).
